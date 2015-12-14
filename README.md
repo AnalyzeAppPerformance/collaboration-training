@@ -4,5 +4,7 @@
 
 
 # Additional information
+#Collaboration training
+Damian Tluczek
 
 TEST
