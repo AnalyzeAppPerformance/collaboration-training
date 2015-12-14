@@ -35,4 +35,3 @@ Paweł Mielnik
 # Collaboration training
 My first commit - mj
 My first commit - mj
-My first commit - mj
