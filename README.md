@@ -34,4 +34,4 @@ My first commit - jpadjasek
 Paweł Mielnik
 # Collaboration training
 My first commit - mj
-My first commit - mj
+1
